@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Lenguajes y Herramientas</h3>
+<h3 align="left">🛠 He Trabajado con estos Lenguajes y Herramientas</h3>
 
 ###
 
