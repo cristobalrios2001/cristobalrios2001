@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZkP19KC2quY0pvp-st9X-G4KycU_ToW3GhDZrIkv39qYw014RAdh5wy49QirCp7nnS0swMDck6Ncj_0w7DAmT6kZHS99GAtwQ=w1920-h913"  />
-</div>
+
 
 ###
 
